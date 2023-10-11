@@ -4,7 +4,7 @@ Welcome to the Big Issue Website repository! This project combines the power of 
 
 **Live Site URL**: [Big Issue Website](https://www.bigissue.com)
 
-![Big Issue Website](preview.png)
+![Big Issue Website](https://github.com/DevRex-0201/WP-BigIssue/blob/main/wp-content/2023-10-11_091123.png)
 
 ## Project Overview
 
@@ -32,7 +32,7 @@ To set up this project locally, follow these steps:
 
 ## Design Preview
 
-![Figma Design](figma.png)
+![Figma Design](https://github.com/DevRex-0201/WP-BigIssue/blob/main/wp-content/Figma_Big%20Issue.png)
 
 ## Contributions and Feedback
 
