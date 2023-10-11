@@ -1,0 +1,264 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ClubFitness\n"
+"POT-Creation-Date: 2017-07-19 20:00+0200\n"
+"PO-Revision-Date: 2017-07-19 20:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:24
+msgid "The Page You Are Looking For Doesn&rsquo;t Exist."
+msgstr ""
+
+#: 404.php:26
+msgid "We are very sorry for the inconvenience."
+msgstr ""
+
+#: 404.php:27
+msgid "Perhaps, Try using the search box below."
+msgstr ""
+
+#: attachment.php:62 page.php:38 single.php:52
+msgid "Edit"
+msgstr ""
+
+#: category.php:24
+msgid "Latest Posts Under:"
+msgstr ""
+
+#: comments.php:16
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:16 inc/post-meta.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:16 inc/post-meta.php:21
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:19 comments.php:29
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:20 comments.php:30
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:21 comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:61
+msgid "Default Color "
+msgstr ""
+
+#: functions.php:66
+msgid "Content Right Color "
+msgstr ""
+
+#: functions.php:84
+msgid "Social Links"
+msgstr ""
+
+#: functions.php:85
+msgid "Add Your Social Links Here."
+msgstr ""
+
+#: functions.php:94
+msgid "Facebook URL"
+msgstr ""
+
+#: functions.php:102
+msgid "Twitter URL"
+msgstr ""
+
+#: functions.php:110
+msgid "Pinterst URL"
+msgstr ""
+
+#: functions.php:118
+msgid "Instagram URL"
+msgstr ""
+
+#: functions.php:126
+msgid "LinkedIn URL"
+msgstr ""
+
+#: functions.php:134
+msgid "Google+ URL"
+msgstr ""
+
+#: functions.php:142
+msgid "YouTube URL"
+msgstr ""
+
+#: functions.php:150
+msgid "Vimeo URL"
+msgstr ""
+
+#: functions.php:158
+msgid "Tumblr URL"
+msgstr ""
+
+#: functions.php:166
+msgid "Flickr URL"
+msgstr ""
+
+#: functions.php:208
+msgid "Top Primary Menu"
+msgstr ""
+
+#: functions.php:372
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:395
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: functions.php:439
+msgid "Name"
+msgstr ""
+
+#: functions.php:440
+msgid "Email"
+msgstr ""
+
+#: functions.php:441
+msgid "Website"
+msgstr ""
+
+#: functions.php:453
+msgid "Comment"
+msgstr ""
+
+#: inc/content-right.php:24
+msgid "Sidebar"
+msgstr ""
+
+#: inc/copyright.php:13
+msgid "Theme by"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: inc/copyright.php:13
+msgid "https://www.thewpclub.com"
+msgstr ""
+
+#: inc/copyright.php:13
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/post-meta.php:17
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/post-meta.php:21
+msgid "0 Comments"
+msgstr ""
+
+#: inc/social.php:15
+msgid "Facebook"
+msgstr ""
+
+#: inc/social.php:18
+msgid "Twitter"
+msgstr ""
+
+#: inc/social.php:21
+msgid "Pinterest"
+msgstr ""
+
+#: inc/social.php:24
+msgid "Instagram"
+msgstr ""
+
+#: inc/social.php:27
+msgid "Linkedin"
+msgstr ""
+
+#: inc/social.php:30
+msgid "Google+"
+msgstr ""
+
+#: inc/social.php:33
+msgid "YouTube"
+msgstr ""
+
+#: inc/social.php:36
+msgid "Vimeo"
+msgstr ""
+
+#: inc/social.php:39
+msgid "Tumblr"
+msgstr ""
+
+#: inc/social.php:42
+msgid "Flickr"
+msgstr ""
+
+#: no-results.php:12
+msgid "Oops..! No Results Found."
+msgstr ""
+
+#: no-results.php:14
+msgid "Perhaps, Try searching with different keywords."
+msgstr ""
+
+#: page.php:32 single.php:46
+msgid "Pages:"
+msgstr ""
+
+#: search.php:24
+msgid "Search Results For:"
+msgstr ""
+
+#: searchform.php:14 searchform.php:17
+msgid "Search"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "ClubFitness"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.thewpclub.com/clubfitness-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A Free WordPress Blog / Magazine / Personal / Writers / Webshop. ClubFitness "
+"is a clean minimal and responsive WooCommerce WordPress theme well suited "
+"for fashion, writers, travel, health, sports, fitness, business, finance, "
+"portfolio, design, art, photography, personal or any other creative "
+"websites, blogs and webshops. Developed with bootstrap framework that makes "
+"it mobile and tablet friendly. ClubFitness has the option to add your social "
+"media links. ClubFitness is ready for WooCommerce. Get free support at "
+"https://ask.thewpclub.com/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "The WP Club"
+msgstr ""
